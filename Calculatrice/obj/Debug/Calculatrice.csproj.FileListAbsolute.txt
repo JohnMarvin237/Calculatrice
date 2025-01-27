@@ -1,0 +1,15 @@
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\bin\Debug\Calculatrice.exe.config
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\bin\Debug\Calculatrice.exe
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\bin\Debug\Calculatrice.pdb
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\Calculatrice.csproj.AssemblyReference.cache
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\MainWindow.g.cs
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\App.g.cs
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\Calculatrice_MarkupCompile.cache
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\Calculatrice_MarkupCompile.lref
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\MainWindow.baml
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\Calculatrice.g.resources
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\Calculatrice.exe
+E:\Projets_Etape3\John_Marvin_NDEKEBITIK_HELIANG_2722513_UA1\Calculatrice\obj\Debug\Calculatrice.pdb
